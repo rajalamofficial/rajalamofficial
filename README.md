@@ -12,7 +12,7 @@
 
 
 
-Hi, I'm [Raj Alam](https://rajalamofficial.github.io/), a Frontend Developer 🚀 from Indonesia, currently, I'm a student from Letris Indonesia 2.
+Hi, I'm [Raj Alam](https://rajalamofficial.github.io/), a Frontend Developer 🚀 from Indonesia, currently, I'm a college student from Institut Teknologi Indonesia.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
